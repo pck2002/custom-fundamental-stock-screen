@@ -1,4 +1,4 @@
-# fundamental-stock-screen
+# Custom Fundamental Stock Sreener
 Custom Fundamental Stock Screener - Cash Taxes Paid to Market Cap
 
 a draft framework for custom fundamental stock screens
