@@ -1,10 +1,7 @@
 # Custom Fundamental Stock Sreener
-
 a draft framework for custom fundamental stock screens
 
-Wanted to sort stocks by P/T ratio (Price to Taxes Paid Ratio) - a cousin of the P/E ratio (Price to Earnings Ratio).
-The fact that I need to write this script for this screen may indicate that's probably not the most in demand ratio.
-I hope to include rolling totals/averages/changes - 3 year cumulative net income to 3 year cumulative spend on share repurchases - in the future.  Short story even shorter, I couldn't find a free screener with a P/T ratio so I decided to make a rough go of one myself.  It still needs work but here's what I have so far:
+Wanted to sort stocks by P/T ratio (Price to Taxes Paid Ratio) - a cousin of the P/E ratio (Price to Earnings Ratio).  The fact that I wrote this script probably indicates that it's not the most in demand ratio.  In the future, I hope to include rolling totals/averages/changes - for example 3 year cumulative net income to 3 year cumulative spend on share repurchases.  Short story even shorter, I couldn't find a free screener with a P/T ratio so I decided to make a rough go of one myself.  It still needs work but here's what I have so far:
 
 project contains:
 
