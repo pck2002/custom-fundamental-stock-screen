@@ -3,15 +3,13 @@ Custom Fundamental Stock Screener - Cash Taxes Paid to Market Cap
 
 a draft framework for custom fundamental stock screens
 
+Wanted to sort stocks by P/T ratio (Price to Taxes Paid Ratio) - a cousin of the P/E ratio (Price to Earnings Ratio).
+The fact that I need to write this script for this screen may indicate that's probably not the most in demand ratio.
+I hope to include rolling totals/averages/changes - 3 year total net income to 3 year total spend on share repurchases paid - in the future.  Short story even shorter, I couldn't find any free screens to do this so I decided to make a rough go of one myself.  It still needs work but here's what I have so far:
 
-porject contains:
+project contains:
 
 R Code (aqfsCodeYear) and sample csv output (TaxesMarketCap)
-
-wanted to sort stocks by P/T ratio (Price to Taxes Paid Ratio) - a cousin to the P/E ratio (Price to Earnings Ratio).
-wonder if this ratio is widely used? Perhaps the fact that I need to writed this for a simple screen may tell me something.
-future version may include rolling totals/averages/changes - 3 year total net income to 3 year total spend on share repurchases paid.
-anyways couldn't find any free screens to do this so I decided to make a rough go of one myself it still needs work but here a start:
 
 data and code sources (perhaps the most useful lines of this project):
 
