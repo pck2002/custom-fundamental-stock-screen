@@ -1,5 +1,5 @@
 # Custom Fundamental Stock Sreener
-Sorting Stock by Cash Taxes Paid to Market Cap
+Sorting Stocks by Cash Taxes Paid to Market Cap
 
 a draft framework for custom fundamental stock screens
 
