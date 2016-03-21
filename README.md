@@ -1,11 +1,10 @@
 # Custom Fundamental Stock Sreener
-Sorting Stocks by Cash Taxes Paid to Market Cap
 
 a draft framework for custom fundamental stock screens
 
 Wanted to sort stocks by P/T ratio (Price to Taxes Paid Ratio) - a cousin of the P/E ratio (Price to Earnings Ratio).
 The fact that I need to write this script for this screen may indicate that's probably not the most in demand ratio.
-I hope to include rolling totals/averages/changes - 3 year cumulative net income to 3 year cumulative spend on share repurchases - in the future.  Short story even shorter, I couldn't find any free screeners with a P/T ratio so I decided to make a rough go of one myself.  It still needs work but here's what I have so far:
+I hope to include rolling totals/averages/changes - 3 year cumulative net income to 3 year cumulative spend on share repurchases - in the future.  Short story even shorter, I couldn't find a free screener with a P/T ratio so I decided to make a rough go of one myself.  It still needs work but here's what I have so far:
 
 project contains:
 
@@ -17,4 +16,4 @@ SEC AQFS data from http://www.sec.gov/dera/data/financial-statement-data-sets.ht
 
 cik to ticker from http://rankandfiled.com/#/data/tickers
 
-script to get market caps (thanks yahoo) from http://allthingsr.blogspot.com/2012/10/pull-yahoo-finance-key-statistics.html
+script to get market caps (yahoo) from http://allthingsr.blogspot.com/2012/10/pull-yahoo-finance-key-statistics.html
