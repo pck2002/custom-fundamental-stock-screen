@@ -1,9 +1,11 @@
 # fundamental-stock-screen
 Custom Fundamental Stock Screener - Cash Taxes Paid to Market Cap
+
 a draft framework for custom fundamental stock screens
 
 
 porject contains:
+
 R Code (aqfsCodeYear) and sample csv output (TaxesMarketCap)
 
 wanted to sort stocks by P/T ratio (Price to Taxes Paid Ratio) - a cousin to the P/E ratio (Price to Earnings Ratio).
